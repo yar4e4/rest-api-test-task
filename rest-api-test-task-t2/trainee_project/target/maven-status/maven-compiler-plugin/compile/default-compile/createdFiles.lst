@@ -1,8 +1,0 @@
-com/romash_co/controller/ProductController.class
-com/romash_co/exception/GlobalExceptionHandler.class
-com/romash_co/repository/ProductRepository.class
-com/romash_co/model/Product.class
-com/romash_co/ProductApiApplication.class
-com/romash_co/exception/ProductNotFoundException.class
-com/romash_co/service/ProductServiceImpl.class
-com/romash_co/service/ProductService.class
